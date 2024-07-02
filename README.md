@@ -1,5 +1,4 @@
- line change
-@@ -0,0 +1,24 @@
+
 # Hi there, I'm Rajewari Pasupuleti👋
 
 Welcome to my GitHub profile! I'm a passionate data analytics enthusiast dedicated to exploring and uncovering insights from data. Here's a bit more about me:
@@ -17,10 +16,10 @@ Welcome to my GitHub profile! I'm a passionate data analytics enthusiast dedicat
 - **Python:** Knowledgeable in data analysis libraries such as pandas and numpy
 
 ## Connect with Me
-- **LinkedIn:** [https://www.linkedin.com/in/rajeswari-p-a72184287/]
-- **Twitter:** [https://x.com/Rajeswari_P20]
-- **Blog:** [https://medium.com/@rajeswaripurna]
+- **LinkedIn:** https://www.linkedin.com/in/rajeswari-p-a72184287/
+- **Twitter:** https://x.com/Rajeswari_P20
+- **Blog:** https://medium.com/@rajeswaripurna
 
 ## Get In Touch
-I'm always open to discussing data analytics, potential collaborations, or any interesting opportunities. Feel free to reach out to me via [rajeswaripurna@gmail.com].
+I'm always open to discussing data analytics, potential collaborations, or any interesting opportunities. Feel free to reach out to me via rajeswaripurna@gmail.com.
 Thanks for visiting my profile!
